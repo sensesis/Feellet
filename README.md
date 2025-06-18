@@ -9,22 +9,19 @@
 <br><br>
 
 # ✨App Description
-> 사용자가 소비 당시의 감정을 함께 기록함으로써 자신의 소비 습관을 되돌아볼 수 있도록 돕는 감정 중심 가계부 앱  
-<br>  
-> 소비를 통해 느낀 감정(후회, 만족 등)을 함께 기록함으로써, 자신의 소비 성향과 심리를 스스로 이해하고 현명한 소비 습관을 형성하게 함.  
-<br>  
-> 회원가입 및 로그인 기능과 함께, 가계부 작성, 삭제, 수정, 감정 선택, 대시보드 등 다양한 기능 제공  
+사용자가 소비 당시의 감정을 함께 기록함으로써 자신의 소비 습관을 되돌아볼 수 있도록 돕는 감정 중심 가계부 앱  
+<br>
+소비를 통해 느낀 감정(후회, 만족 등)을 함께 기록함으로써, 자신의 소비 성향과 심리를 스스로 이해하고 현명한 소비 습관을 형성하게 함.  
+회원가입 및 로그인 기능과 함께, 가계부 작성, 삭제, 수정, 감정 선택, 대시보드 등 다양한 기능 제공  
 <br><br>
 
 # ✨App Screen
 <table>
   <tr>
-    <td>피그마 초기 와이어프레임</td>
     <td>로그인 화면</td>
     <td>회원가입 화면</td>
   </tr>
   <tr>
-    <td><img width="520" src="https://github.com/user-attachments/assets/8d8fe7db-27e5-4a42-bb5a-8d7246caf251"></td>
     <td><img width="200" src="https://github.com/user-attachments/assets/303b8bc9-d490-4c76-93af-0dcde9ccbda5"></td>
     <td><img width="200" src="https://github.com/user-attachments/assets/e340dfcc-b98b-422c-88ec-5143b97eb86a"></td>
   </tr>
